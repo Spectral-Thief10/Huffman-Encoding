@@ -26,7 +26,7 @@ public class FreqTable {
 		
 	}
 	
-	/** Justin
+	/**
 	 * Get returns the frequency of char ch 
 	 * @param ch Character key to get
 	 * @return ch frequency or 0 if not found. 
@@ -34,7 +34,7 @@ public class FreqTable {
 	public int get(char ch) {
 		return freq[ch];
 	}
-	/** Justin 
+	/** 
 	 * Get Frequencies returns an int[charCount][2]
 	 * this is the frequency pairs without all the empty 
 	 * space from the first map.
