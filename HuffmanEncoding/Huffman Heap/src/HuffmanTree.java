@@ -1,14 +1,14 @@
 
 /**
  * 
- * @author Justin Adam & Cameron Rodgers
+ * @author Cameron Rodgers
  *	Huffman Tree is the class that has all the functions and 
  *  data need to build the tree.  
  */
 public class HuffmanTree {
 	private final HuffmanNode root;
 	
-	/** Justin & Cameron
+	/** Cameron
 	 * Constructor gets the frequencies from FreqTable f
 	 * loops through each element putting them into a priorityQueue, before taking the results 
 	 * and building a tree. Finally it sets root to the head of the tree using poll. 
@@ -42,7 +42,7 @@ public class HuffmanTree {
 	}
 	
 	
-	/** Justin 
+	/** 
 	 * get Root returns the root. 
 	 * @return huffmanNode root
 	 */
@@ -50,7 +50,7 @@ public class HuffmanTree {
 		return root; 
 	}
 	
-	/** Cameron
+	/** 
 	 * Returns a string of the huffman tree in preorder traversal using a helper method
 	 */
 	public String str = "";
