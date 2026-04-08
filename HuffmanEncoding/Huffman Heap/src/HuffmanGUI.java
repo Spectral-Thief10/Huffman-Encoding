@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 /**
- * @author Tanay Desai
+ * @author Cameron Rodgers
  */
 public class HuffmanGUI extends JFrame implements ActionListener {
     private JTextArea inputTextArea, encodedTextArea, decodedTextArea;
