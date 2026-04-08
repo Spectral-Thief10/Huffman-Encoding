@@ -1,6 +1,6 @@
 /**
  * 
- * @author Justin Adams 
+ * @author Cameron Rodgers
  *	This class is Frequency Table 
  *  used when counting all occurrences of char
  */
