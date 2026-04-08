@@ -1,6 +1,6 @@
 /**
  * 
- * @author Justin Adams 
+ * @author Cameron Rodgers
  * Pair is use as a data type to hold the char and frequency. 
  *
  * @param <K> Key Char 
