@@ -1,5 +1,5 @@
 /**
- * @author Tanay Desai and Lucas Tuan
+ * @author Cameron Rodgers
  * This is the Encoder class
  */
 
@@ -88,7 +88,7 @@ public class Encoder {
     }
 
     /**
-     * @author Lucas Tuan
+     * @author Cameron Rodgers
      * Linked list that stores the current encoding
      */
     private class Encoding{
